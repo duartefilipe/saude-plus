@@ -91,4 +91,4 @@ O sistema utiliza um modelo ER flexível que permite:
 - [ ] Avaliação automática por IA
 - [ ] Marketplace de consultas
 - [ ] App mobile
-- [ ] Integração com wearables 
+- [ ] Integração com wearables
